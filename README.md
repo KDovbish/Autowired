@@ -1,0 +1,2 @@
+# Autowired
+Реализация аннотации @Autowired
